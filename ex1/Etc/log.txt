@@ -1,0 +1,23 @@
+commit 53c3d740ed7795d41b70cc82c44448126765c441 (HEAD -> master, origin/master, origin/HEAD)
+Author: Eyal Cohen <Eyalcohenx@gmail.com>
+Date:   Tue Mar 12 12:56:50 2019 +0200
+
+    finished!
+
+commit a794fdf475ade7aa9f6d82c4742ac268d1356a1d
+Author: Eyal Cohen <Eyalcohenx@gmail.com>
+Date:   Tue Mar 12 12:48:31 2019 +0200
+
+    finished
+
+commit 10700d35a160673714d29a6b5261dfa16c6bdc18
+Author: Eyal Cohen <Eyalcohenx@gmail.com>
+Date:   Thu Mar 7 10:13:24 2019 +0200
+
+    commit 1
+
+commit 73a3a16723bde434586cfccf643175abeadb99bb
+Author: Eyal <Eyal@LAPTOP-238FJL23>
+Date:   Thu Mar 7 10:11:26 2019 +0200
+
+    Add .gitignore and .gitattributes.
