@@ -1,0 +1,8 @@
+table employeesData(int seniority, int birthyear, string employer id, Job type, string ID)
+table reservationsData(string customer_id, string flight_id, Classes resclass, int max_baggage, string ID)
+table planesData(string ID, int plane model, num.managers, num.navigators ..., num.other, int max firstclass, int max ecconomy class)
+table FlightsData(int plane model, string date, string des, string source, string ID, string planeID,int seats left in first class, int seats left in second class)
+table customerData(string name, int priority, string ID)
+table TakenEmployeeData(string employeeID, string date, string flightID) // note that some employee can appeare more then once in the table he can be taken for another flight at another date
+file - IDFile - IDCounter so we wont have any dupe ID's
+...
